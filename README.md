@@ -81,7 +81,7 @@ The timing is governed by the RC network connected to the astable multivibrator 
 ## 🧠 Learning Outcomes
 - Designing **Battery Charging Circuits** with voltage regulation.
 - Implementing **Astable Multivibrators** for precise signal timing.
-- Managing **High-Voltage switching** and EMI protection in PCB design.
+- Managing **High-Voltage switching** 
 - Integrating **Renewable Energy** into practical security applications.
 
 ---
@@ -95,8 +95,8 @@ The timing is governed by the RC network connected to the astable multivibrator 
 ---
 
 ## 👨‍🎓 The Team
-- **Praneesh** (123EC0043)
 - **Chethan** (123EC0049)
+- **Praneesh** (123EC0043)
 - **Abhilash** (123EC0053)
 - **Manideep** (523EC0004)
 - **Dinesh** (523EC0007)
