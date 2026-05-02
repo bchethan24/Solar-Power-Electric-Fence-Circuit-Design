@@ -18,9 +18,9 @@ This project features a fully custom-built **Solar Powered Electric Fence**, des
 │ • 12V Solar Panel          │       │ • CD4047 Multivibrator     │
 │ • LM317L Voltage Regulator │◄─────►│ • Adjustable Frequency     │
 │ • 12V 7Ah Battery Storage  │       │ • 46 Hz – 58 Hz Range      │
-└─────────────┬──────────────┘       └─────────────┬──────────────┘
-              │                                    │
-              ▼                                    ▼
+└────────────────────────────┘       └─────────────┬──────────────┘
+                                                   │
+                                                   ▼
 ┌────────────────────────────┐       ┌────────────────────────────┐
 │   High-Voltage Stage       │       │      Switching Stage       │
 │ • Step-up Transformer      │◄─────►│ • Dual IRF3205 MOSFETs     │
