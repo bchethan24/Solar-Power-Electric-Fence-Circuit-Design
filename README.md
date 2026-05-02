@@ -11,36 +11,6 @@ This project features a fully custom-built **Solar Powered Electric Fence**, des
 ---
 
 ## 🏗 System Architecture
-┌────────────────────────────┐       ┌────────────────────────────┐
-│   Solar Charging Stage     │       │   Pulse Generation Stage   │
-│ • 12V Solar Panel          │       │ • CD4047 Multivibrator     │
-│ • LM317L Voltage Regulator │◄─────►│ • Adjustable Frequency     │
-│ • 12V 7Ah Battery Storage  │       │ • 46 Hz – 58 Hz Range      │
-└─────────────┬──────────────┘       └─────────────┬──────────────┘
-│                                    │
-▼                                    ▼
-┌────────────────────────────┐       ┌────────────────────────────┐
-│   High-Voltage Stage       │       │      Switching Stage       │
-│ • Step-up Transformer      │◄─────►│ • Dual IRF3205 MOSFETs     │
-│ • High-Voltage Pulse Out   │       │ • High-Current Handling    │
-│ • Safe Deterrent Shocks    │       │ • Low-Loss Power Switching │
-└────────────────────────────┘       └────────────────────────────┘
-Here is the project description formatted in **Markdown**, ready for your GitHub `README.md` file. I have followed the exact style, hierarchy, and use of tables/boxes from your PWM Modulator example.
-
-```markdown
-# Solar Powered Electric Fence Circuit
-
-*A high-voltage, renewable energy-based perimeter security system using CD4047 pulse generation and MOSFET power switching.*
-
----
-
-## 📘 Overview
-
-This project features a fully custom-built **Solar Powered Electric Fence**, designed to deliver controlled, safe high-voltage pulses for agricultural and perimeter protection. It integrates a solar charging system with a battery backup to ensure 24/7 off-grid operation without reliance on the power grid.
-
----
-
-## 🏗 System Architecture
 
 ```
 ┌────────────────────────────┐       ┌────────────────────────────┐
