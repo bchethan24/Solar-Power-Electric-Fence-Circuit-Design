@@ -71,17 +71,6 @@ The timing is governed by the RC network connected to the astable multivibrator 
 
 ---
 
-## 🧪 Verification & Testing
-
-| Test | Condition | Expected Result | Status |
-| :--- | :--- | :--- | :--- |
-| **Charging** | Solar Input Active | Stable 13.8V to battery | ✅ Pass |
-| **Timing (Min)** | Potentiometer at 0Ω | Frequency ≈ 58 Hz | ✅ Pass |
-| **Timing (Max)** | Potentiometer at 100kΩ | Frequency ≈ 46 Hz | ✅ Pass |
-| **Output** | Fence Connection | Periodic High-Voltage Discharges | ✅ Pass |
-
----
-
 ## 📂 Repository Contents
 - `/hardware`: Schematics, PCB layouts, and Gerber fabrication files.
 - `/docs`: Timing calculation sheets, safety guidelines, and project report.
