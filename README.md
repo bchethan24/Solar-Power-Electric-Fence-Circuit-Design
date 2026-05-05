@@ -93,4 +93,3 @@ The timing is governed by the RC network connected to the astable multivibrator 
 
 ## ✅ Summary
 A robust, solar-powered security solution that demonstrates the practical application of **Power Electronics** and **Analog Design**. The system provides a sustainable, cost-effective deterrent for livestock and perimeter management, verified through rigorous testing and custom PCB fabrication.
-```
