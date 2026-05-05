@@ -86,23 +86,6 @@ The timing is governed by the RC network connected to the astable multivibrator 
 
 ---
 
-## 🧭 Academic Context
-**Institution:** Indian Institute of Information Technology Design and Manufacturing, Kurnool  
-**Department:** Electronics and Communication Engineering  
-**Academic Year:** 2025–2026  
-**Faculty Guidance:** Dr. P. Ranga Babu  
-
----
-
-## 👨‍🎓 The Team
-- **Chethan** (123EC0049)
-- **Praneesh** (123EC0043)
-- **Abhilash** (123EC0053)
-- **Manideep** (523EC0004)
-- **Dinesh** (523EC0007)
-
----
-
 ## 🧾 License
 **MIT License** Permission is granted to use, modify, and distribute under MIT terms.
 
