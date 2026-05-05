@@ -65,16 +65,16 @@ The timing is governed by the RC network connected to the astable multivibrator 
 ## 📐 Design Features
 
 * **Fully Custom Design:** Optimized schematics and PCB layouts specifically for high-current pulse switching.
-* **Off-Grid Optimized:** Designed for long-term outdoor operation with minimal maintenance.
+* **Off-Grid Optimized:** Designed for outdoor operation with minimal maintenance.
 * **Safety Integrated:** Intermittent pulse generation ensures shocks are deterrent but safe for livestock and humans.
 * **Modular Layout:** Segmented circuit stages for charging, control, and high-voltage output for easier troubleshooting.
 
 ---
 
 ## 📂 Repository Contents
-- `/hardware`: Schematics, PCB layouts, and Gerber fabrication files.
-- `/docs`: Timing calculation sheets, safety guidelines, and project report.
-- `/media`: 3D PCB renders, circuit diagrams, and board photographs.
+- `/hardware`: Schematics, PCB layouts and 3D PCB layout visualizations.
+- `/docs`: component datasheets and project report.
+- `/manufacturing`: Gerber files of the PCB layouts.
 
 ---
 
