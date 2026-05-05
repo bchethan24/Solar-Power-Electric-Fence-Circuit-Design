@@ -4,14 +4,13 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This project features a fully custom-built **Solar Powered Electric Fence**, designed to deliver controlled, safe high-voltage pulses for agricultural and perimeter protection. It integrates a solar charging system with a battery backup to ensure 24/7 off-grid operation without reliance on the power grid.
 
 ---
 
-## 🏗 System Architecture
-
+## System Architecture
 ```
 ┌────────────────────────────┐       ┌────────────────────────────┐
 │   Solar Charging Stage     │       │   Pulse Generation Stage   │
